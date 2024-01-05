@@ -1,7 +1,7 @@
 ---
-name : Bug Issue
+name : Problem Issue
 about : 새로운 이슈를 작성하기 위한 템플릿
-title : "[Fix] "
+title : "[Problem] "
 
 ---
 
