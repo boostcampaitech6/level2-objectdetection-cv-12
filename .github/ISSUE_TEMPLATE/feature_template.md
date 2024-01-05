@@ -1,7 +1,7 @@
 ---
 name : Feature Issue
 about : 새로운 이슈를 작성하기 위한 템플릿
-title : "[Issue]"
+title : "[Feature] "
 
 ---
 
