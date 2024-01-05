@@ -1,6 +1,7 @@
 ---
 name : New Pull Request
 about : 새로운 PR을 작성하기 위한 템플릿
+title : "PR 템플릿"
 ---
 
 ## 🔍 Background
