@@ -2,9 +2,10 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 ### Python ###
-*.ipynb
+#*.ipynb
 *.pth
 /mmdetection/work_dirs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
