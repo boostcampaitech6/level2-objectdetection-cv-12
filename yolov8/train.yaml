@@ -1,0 +1,8 @@
+train: /data/ephemeral/home/Git/utils/valid_set/kfold/yolo_train/images/train_5
+val: /data/ephemeral/home/Git/utils/valid_set/kfold/yolo_train/images/val_5
+test: /data/ephemeral/home/Git/utils/valid_set/kfold/yolo_train/images/test
+
+nc: 10
+
+names: ["General trash", "Paper", "Paper pack", "Metal", "Glass", 
+           "Plastic", "Styrofoam", "Plastic bag", "Battery", "Clothing"]
