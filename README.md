@@ -30,3 +30,17 @@
     runner = Runner.from_cfg(config)
     runner.train()
     runner.test()
+
+# effdet 가이드
+
+## train
+train.py를 실행하여 학습합니다.
+config.yaml을 사용하면 편하게 parser들을 설정할 수 있습니다.
+wandb 이름은 train.py 파일 내에서 지정해 줍니다.
+
+## inference
+validate.py를 실행하여 추론합니다.
+학습시 .pth.tar 확장자로 저장된 파일에서 .tar를 지워주어야 합니다.
+따로 config 파일이 없기에 parser에 적잘한 값들을 넣어주셔야 합니다.
+결과값은 coco형식의 annotation 값들이 나오게 됩니다.
+이 파일을 coco_to_voc.py를 통해 변경하면 제출형식에 맞는 csv 파일을 저장하게됩니다.
