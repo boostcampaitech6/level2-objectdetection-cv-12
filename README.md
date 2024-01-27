@@ -1,10 +1,11 @@
-# 보여조
+# 재활용 품목 분류를 위한 Object Detection
 
 ![Alt text](./readme_images/image.png)
 
 - 2024.01.03 ~ 2024.01.18
 - 네이버 커넥트 재단 및 Upstage에서 주관하는 비공개 대회
-- 재활용 품목 분류를 위한 Object Detection
+- Team Report : [Object Det_CV_팀 리포트(12조).pdf](https://github.com/boostcampaitech6/level2-objectdetection-cv-12/files/14072573/Object.Det_CV_.12.pdf)
+
 
 ## MEMBERS
 
